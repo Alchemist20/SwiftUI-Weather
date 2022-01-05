@@ -14,6 +14,7 @@
 		07BDCAC02784CADD0045C0A7 /* SwiftUI_WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BDCABF2784CADD0045C0A7 /* SwiftUI_WeatherTests.swift */; };
 		07BDCACA2784CADD0045C0A7 /* SwiftUI_WeatherUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BDCAC92784CADD0045C0A7 /* SwiftUI_WeatherUITests.swift */; };
 		07BDCACC2784CADD0045C0A7 /* SwiftUI_WeatherUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BDCACB2784CADD0045C0A7 /* SwiftUI_WeatherUITestsLaunchTests.swift */; };
+		07BDCAD92784D2110045C0A7 /* SwiftPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BDCAD82784D2110045C0A7 /* SwiftPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		07BDCAC52784CADD0045C0A7 /* SwiftUI-WeatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftUI-WeatherUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		07BDCAC92784CADD0045C0A7 /* SwiftUI_WeatherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_WeatherUITests.swift; sourceTree = "<group>"; };
 		07BDCACB2784CADD0045C0A7 /* SwiftUI_WeatherUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_WeatherUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		07BDCAD82784D2110045C0A7 /* SwiftPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				07BDCAB02784CADC0045C0A7 /* ContentView.swift */,
 				07BDCAB22784CADD0045C0A7 /* Assets.xcassets */,
 				07BDCAB42784CADD0045C0A7 /* Preview Content */,
+				07BDCAD82784D2110045C0A7 /* SwiftPractice.swift */,
 			);
 			path = "SwiftUI-Weather";
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				07BDCAB12784CADC0045C0A7 /* ContentView.swift in Sources */,
 				07BDCAAF2784CADC0045C0A7 /* SwiftUI_WeatherApp.swift in Sources */,
+				07BDCAD92784D2110045C0A7 /* SwiftPractice.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
